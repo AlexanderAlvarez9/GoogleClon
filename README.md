@@ -1,8 +1,15 @@
-# Google Clon
+# Google Clon - Layout
 
-# Clon de Google
+Proyect of layout of google, just using HTML and CSS to clone it, is practice for make the page in 2 hours or less
 
-## Clon de google realizado en CSS y HTML, para el curso de *Curso Práctico de HTML y CSS*
+## Demo
 
+You can see the demo live, [here](https://darkmefisto9.github.io/GoogleClon/index.html)
 
-![alt text](https://repository-images.githubusercontent.com/264332720/44922500-96ef-11ea-84f7-a3c54e22b4f2 "Preview del proyecto")
+### Image Preview
+
+![Image Preview](preview.png)
+
+### Create for Platzi Master
+
+#### This App is distributed under MIT license.
